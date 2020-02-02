@@ -10,6 +10,10 @@ html {
 }
 
 .webp {
+    #teamHero {
+    	background-image: url("assets/images/team-main.webp")
+    } 
+
     #sponsorHero {
         background-image: url("/assets/images/sponsor-title.webp");
     }
@@ -20,6 +24,10 @@ html {
 }
 
 .no-webp {
+    #teamHero {
+    	background-image: url("assets/images/team-main.png")
+    } 
+
     #sponsorHero {
         background-image: url("/assets/images/sponsor-title.png");
     }
@@ -27,6 +35,12 @@ html {
     #homeHero {
         background-image: url("/assets/images/home-title.png");
     }
+}
+
+#teamHero {
+    //background-image: url("/assets/images/team-main.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #sponsorHero {
