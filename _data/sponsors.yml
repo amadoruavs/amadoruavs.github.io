@@ -42,6 +42,8 @@ list:
       image: computar.png
     - title: Pololu
       image: pololu.png
+    - title: Weller
+      image: weller.png
 levels:
     - name: platinum
       title: Platinum
