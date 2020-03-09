@@ -26,8 +26,10 @@ list:
       image: cuav.png
     - title: The Imaging Source
       image: tis.png
-    - title: JLCPCB
-      image: jlcpcb.png
+    - title: Computar
+      image: computar.png
+    - title: SimScale
+      image: simscale.png
     - title: Fastsigns
       image: fastsigns.png
     - title: RFDesign
@@ -38,8 +40,8 @@ list:
       image: sensirion.png
     - title: DigiKey Electronics
       image: digikey.png
-    - title: Computar
-      image: computar.png
+    - title: JLCPCB
+      image: jlcpcb.png
     - title: Pololu
       image: pololu.png
     - title: Weller
