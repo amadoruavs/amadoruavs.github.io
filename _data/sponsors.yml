@@ -34,6 +34,8 @@ list:
       image: fastsigns.png
     - title: RFDesign
       image: rfdesign.png
+    - title: StarTech
+      image: startech.png
     - title: Amador Valley High School PTSA
       image: ptsa.png
     - title: Sensirion
