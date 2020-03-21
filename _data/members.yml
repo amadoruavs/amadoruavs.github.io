@@ -40,26 +40,11 @@
   position: Club Administration
   image: /assets/images/members/placeholder
   email: sungje.park123@gmail.com
-- name: Sri Kondapalli
-  username: skondapalli
-  division: Software
-  position: UGV
-  image: /assets/images/members/sri
-- name: Arjun Bemarkar
-  username: arjun
-  division: Software
-  position: Obstacle Avoidance
-  image: /assets/images/members/arjun
 - name: Matthew Zhao
   username: matthew
   division: Software
   position: Networking
   image: /assets/images/members/matthew
-- name: Arnav
-  username: arnav
-  division: Software
-  position: Imaging System
-  image: /assets/images/members/arnav
 - name: Raghav
   username: raghav
   division: Software
