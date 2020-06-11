@@ -11,7 +11,7 @@
 - name: Kalyan Sriram
   username: ksriram
   division: Software
-  position: Software Team Lead
+  position: President
   image: /assets/images/members/kalyan
 - name: Marie Lee
   username: mlee
@@ -26,7 +26,7 @@
 - name: Vincent Wang
   username: vwang
   division: Software
-  position: Navigation
+  position: Software Team Lead
   image: /assets/images/members/vincent
 - name: Derick Mathews
   username: dmathews
@@ -37,14 +37,9 @@
 - name: Sungje Park
   username: spark
   division: Business
-  position: Club Administration
+  position: Administration/Management
   image: /assets/images/members/placeholder
   email: sungje.park123@gmail.com
-- name: Matthew Zhao
-  username: matthew
-  division: Software
-  position: Networking
-  image: /assets/images/members/matthew
 - name: Raghav
   username: raghav
   division: Software
