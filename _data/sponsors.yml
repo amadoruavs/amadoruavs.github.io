@@ -50,6 +50,8 @@ list:
       image: pololu.png
     - title: Weller
       image: weller.png
+    - title: Insta360
+      image: insta360.png
 levels:
     - name: platinum
       title: Platinum
